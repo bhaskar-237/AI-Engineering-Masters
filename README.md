@@ -15,7 +15,7 @@ Collection of Data Science Projects
 * Recall calculates the percentage of actual positives a model correctly identified
 * The  F1-score, is a measure of a model's accuracy on a dataset, it is a combination of precision and recall, and would be most appropriate in this case
 
-# [Project 3 - Feature Selection - ANOVA & Chi-Squared](https://github.com/Jlod95/Data-Science-Projects/blob/main/Project%203%20-%20Feature%20Selection%20-%20ANOVA%20%26%20Chi-Squared.ipynb)
+# [Project 3: Feature Selection - ANOVA & Chi-Squared](https://github.com/Jlod95/Data-Science-Projects/blob/main/Project%203%20-%20Feature%20Selection%20-%20ANOVA%20%26%20Chi-Squared.ipynb)
 * We want to see if there is a difference in average time depending on what variable we are interested in
 * We are dealing with more than 3 variables (groups)
 * If we were dealing with only two groups and wanted to see if there is a difference in average time between them we would use t-test usually. However, for three or more variables, we use ANOVA (Analysis Of Variance) 
