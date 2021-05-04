@@ -6,7 +6,7 @@ Collection of Data Science Projects
 * Used nltk to carry out sentiment analysis on headlines
 * Used pandas and matplotlib to visualise the data
 
-# Project 2: EDA with Python and Logistic Regression - Titanic
+# [Project 2: EDA with Python and Logistic Regression - Titanic](https://github.com/Jlod95/Data-Science-Projects/blob/main/EDA%20with%20Python%20and%20Logistic%20Regression%20-%20Titanic.ipynb)
 * Simply project for practicing EDA and Data Visualisation techniques
 * Used Logistic Regression Model. Logistic model is just Linear Regression under a transform, usually a Sigmoid function
 * It is used when we want to examine a binary dependent variable relationship with one or more independent variables
