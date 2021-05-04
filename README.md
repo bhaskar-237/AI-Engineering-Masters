@@ -14,3 +14,16 @@ Collection of Data Science Projects
 * Precision is a good evaluation metric to use when the cost of a false positive is very high
 * Recall calculates the percentage of actual positives a model correctly identified
 * The  F1-score, is a measure of a model's accuracy on a dataset, it is a combination of precision and recall, and would be most appropriate in this case
+
+# [Project 3 - Feature Selection - ANOVA & Chi-Squared](https://github.com/Jlod95/Data-Science-Projects/blob/main/Project%203%20-%20Feature%20Selection%20-%20ANOVA%20%26%20Chi-Squared.ipynb)
+* We want to see if there is a difference in average time depending on what variable we are interested in
+* We are dealing with more than 3 variables (groups)
+* If we were dealing with only two groups and wanted to see if there is a difference in average time between them we would use t-test usually. However, for three or more variables, we use ANOVA (Analysis Of Variance) 
+* ANOVA is perfect for analysing categorical variables affect on a numerical variable
+* For thwe second task, we are dealing with a categorical independent variable and categorical dependent variables (more than 2)
+* For this case we use Chi-Squared
+* In both instance, we can use scipy packages, which saves a lot of time and work
+* Also in both cases the p-value is almost zero, that is to say there is an almost zero percent chance of this dataset occuring if the null hypothesis is true
+* From that, in both cases we can say that we reject the null hypothesis. 
+* In the first case that means we can say the complaint type does affect the response time
+* In the second case that means we can say the location does affect the type of complaints one can expect to receive from there
