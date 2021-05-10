@@ -27,3 +27,10 @@ Collection of Data Science Projects
 * From that, in both cases we can say that we reject the null hypothesis. 
 * In the first case that means we can say the complaint type does affect the response time
 * In the second case that means we can say the location does affect the type of complaints one can expect to receive from there
+
+# Project 4 - ChatBot
+* Admittedly not a very advanced chatbot but forced me to work on some packages and software I had not used before such as flask and PyCharm
+* Some html build the webpage
+* This is what it looks like:
+* <img width="797" alt="Chatbot_image1" src="https://user-images.githubusercontent.com/49656583/117686509-d91e4e80-b1ae-11eb-9709-65194393fe7d.PNG">
+* Obviously it needs work but intend improving it
