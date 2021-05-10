@@ -33,4 +33,4 @@ Collection of Data Science Projects
 * Some html build the webpage
 * This is what it looks like:
  <img width="797" alt="Chatbot_image1" src="https://user-images.githubusercontent.com/49656583/117686509-d91e4e80-b1ae-11eb-9709-65194393fe7d.PNG">
-* Obviously it needs work but intend improving it
+* Obviously it needs work but intend on improving it
