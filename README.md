@@ -5,7 +5,7 @@ Collection of Data Science Projects
 * Scrapped Finviz website for headlines using Beautiful Soup
 * Used nltk to carry out sentiment analysis on headlines
 * Used pandas and matplotlib to visualise the data
-![Sentiment Analysis](C:\Users\jlod9\Downloads\sent_an.png)
+<img width="655" alt="Sentiment Analysis" src="https://user-images.githubusercontent.com/49656583/130101959-5edcbe73-e782-4511-86fe-f75776fcdc58.PNG">
 
 # [Project 2 - ChatBot](https://github.com/Jlod95/Data-Science-Projects/blob/main/Project%204%20-%20ChatBot.py)
 * Admittedly not a very advanced chatbot but forced me to work on some packages and software I had not used before such as flask and PyCharm
