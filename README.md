@@ -1,5 +1,5 @@
 # Data-Science-Projects
-Collection of Data Science Projects
+Collection of Projects I did to complete Simplilearn's online Masters Program from February 2021 - February 2022
 
 # [Data Science With Python - 311 Service Request](https://github.com/Jlod95/AI-Engineering-Masters/blob/main/1_Data%20science%20with%20python/1_311%20Service%20Requests.ipynb)
 * pandas, numpy, matplotlib
