@@ -7,6 +7,11 @@ Collection of Data Science Projects
 * Used pandas and matplotlib to visualise the data
 <img width="655" alt="Sentiment Analysis" src="https://user-images.githubusercontent.com/49656583/130101959-5edcbe73-e782-4511-86fe-f75776fcdc58.PNG">
 
+#[Data Science With Python](https://github.com/Jlod95/AI-Engineering-Masters/blob/main/1_Data%20science%20with%20python/1_311%20Service%20Requests.ipynb)
+* pandas, nupmy matplotlib
+* Data cleansing, data visualisation, statistics (ANOVA, hypotheiss testing, f-scores), Chi-squares
+
+
 
 
 
