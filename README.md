@@ -15,4 +15,13 @@ Collection of Projects I did to complete Simplilearn's Online Masters Program fr
 
 # [Deep Learning With Tensorflow and Keras - House Loan Data Analysis Project](https://github.com/Jlod95/AI-Engineering-Masters/blob/main/3_Deep%20Learning%20With%20Keras%20and%20Tensorflow/House%20Loan%20Data%20Analysis%20Project.ipynb)
 * Used pandas, numpy, SMOTE, matplotlib, sklearn, train_test_split, KNeighborsClassifier, GridSearchCV
-* Data visualisation, imbalanced data, tensor, keras, optimizer (adam), loss function (BinaryCrossentropy), metrics (AUC, ROC, accuracy, recall, confusion matrix, classification report, sensitivity), layers, activation functions (Relu, LeakyRelu, Sigmoid), density
+* Data visualisation, imbalanced data, tensor, keras, optimizer (adam), loss function (BinaryCrossentropy), metrics (AUC, ROC, accuracy, recall, confusion matrix, classification report, sensitivity), layers, activation functions (Relu, LeakyReLu, Sigmoid), density
+
+# [Advanced Deep Learning And Computer Vision - Perform Facial Recognition with Deep Learning in Keras Using CNN](https://github.com/Jlod95/AI-Engineering-Masters/blob/main/4_Advanced%20Deep%20Learning%20And%20Computer%20Vision/Perform%20Facial%20Recognition%20with%20Deep%20Learning%20in%20Keras%20Using%20CNN.ipynb)
+* pandas, numpy, matplotlib, tensorflow, train_test_split, 
+* data visualisation, tensor, keras, Conv2D, MaxPooling2D, Dense, Dropout, Flatten, LeakyReLU, PReLU
+
+# []()
+
+
+# []()
