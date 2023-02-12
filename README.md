@@ -7,9 +7,9 @@ Collection of Data Science Projects
 * Used pandas and matplotlib to visualise the data
 <img width="655" alt="Sentiment Analysis" src="https://user-images.githubusercontent.com/49656583/130101959-5edcbe73-e782-4511-86fe-f75776fcdc58.PNG">
 
-# [Project 2 - ChatBot](https://github.com/Jlod95/Data-Science-Projects/blob/main/Project%204%20-%20ChatBot.py)
-* Admittedly not a very advanced chatbot but forced me to work on some packages and software I had not used before such as flask and PyCharm
-* Some html build the webpage
-* This is what it looks like:
- <img width="797" alt="Chatbot_image1" src="https://user-images.githubusercontent.com/49656583/117686509-d91e4e80-b1ae-11eb-9709-65194393fe7d.PNG">
-* Obviously it needs work but intend on improving it
+
+
+
+# [Deep Learning With Tensorflow and Keras](https://github.com/Jlod95/AI-Engineering-Masters/blob/main/3_Deep%20Learning%20With%20Keras%20and%20Tensorflow/House%20Loan%20Data%20Analysis%20Project.ipynb)
+* Used pandas, numpy, SMOTE, matplotlib, sklearn, train_test_split, KNeighborsClassifier, GridSearchCV
+* Data visualisation, imbalanced data, tensor, keras, optimizer (adam), loss function (BinaryCrossentropy), metrics (auc, roc, accuracy, recall, confusion matrix, classification report, sensitivity), layers, activation functions(relu, leakyrelu, sigmoid), density
