@@ -21,7 +21,8 @@ Collection of Projects I did to complete Simplilearn's Online Masters Program fr
 * pandas, numpy, matplotlib, tensorflow, train_test_split, 
 * data visualisation, tensor, keras, Conv2D, MaxPooling2D, Dense, Dropout, Flatten, LeakyReLU, PReLU
 
-# []()
-
+# [NLP - Topic Analysis of Review Data](https://github.com/Jlod95/AI-Engineering-Masters/blob/main/5_NLP/Topic%20Analysis%20of%20Review%20Data.ipynb)
+* numpy, pandas, matplotlib, seaborn, string, nltk, gensim, tabulate
+* tokenizing, tagging, lemmatization, LDA
 
 # []()
