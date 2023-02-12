@@ -3,7 +3,7 @@ Collection of Projects I did to complete Simplilearn's Online Masters Program fr
 
 # [Data Science With Python - 311 Service Request](https://github.com/Jlod95/AI-Engineering-Masters/blob/main/1_Data%20science%20with%20python/1_311%20Service%20Requests.ipynb)
 * pandas, numpy, matplotlib
-* Data cleansing, data wrangling, data visualisation, statistics (ANOVA, hypotheiss testing, f-scores), Chi-squares
+* Data cleansing, data wrangling, data visualisation, statistics (ANOVA, hypotheiss testing), Chi-squares
 
 # [Data Science With Python - Visualise Comcast Complaints](https://github.com/Jlod95/AI-Engineering-Masters/blob/main/1_Data%20science%20with%20python/1_Visualise%20Comcast%20Complaints.ipynb)
 * pandas, numpy, matplotlib, seaborn
@@ -25,4 +25,6 @@ Collection of Projects I did to complete Simplilearn's Online Masters Program fr
 * numpy, pandas, matplotlib, seaborn, string, nltk, gensim, tabulate
 * tokenizing, tagging, lemmatization, LDA
 
-# []()
+# [AI Capstone - Finance](https://github.com/Jlod95/AI-Engineering-Masters/blob/main/6_AI%20Capstone/AI%20Capstone%20-%20Finance.ipynb)
+* pandas, numpy, matplotlib, seaborn, imblearn, scikitplot, XGBoost, tensorflow, keras, RandomUnderSampler, GridSearchCV
+* training and testing, scaling, balancing data, Naive Bayes, Logistic Regression, SVM, metrics (acuracy, precision, recall, F1-score), Random Forest, incremental gains, ANN (fine-tuning, layers, neurons, batch-size, epochs, Gradient Descent (Adam, SGD, RMS-prop), Isolation Forest, Elliptic Envelope
