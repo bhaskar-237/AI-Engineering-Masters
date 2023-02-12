@@ -1,12 +1,6 @@
 # Data-Science-Projects
 Collection of Data Science Projects
 
-# [Project 1 - Sentiment Analysis of Companies from Newspaper Headlines](https://github.com/Jlod95/Data-Science-Projects/blob/main/Project%201%20-%20Sentiment%20Analysis%20of%20Companies%20from%20Newspaper%20Headlines.ipynb)
-* Scrapped Finviz website for headlines using Beautiful Soup
-* Used nltk to carry out sentiment analysis on headlines
-* Used pandas and matplotlib to visualise the data
-<img width="655" alt="Sentiment Analysis" src="https://user-images.githubusercontent.com/49656583/130101959-5edcbe73-e782-4511-86fe-f75776fcdc58.PNG">
-
 # [Data Science With Python](https://github.com/Jlod95/AI-Engineering-Masters/blob/main/1_Data%20science%20with%20python/1_311%20Service%20Requests.ipynb)
 * pandas, numpy, matplotlib
 * Data cleansing, data wrangling, data visualisation, statistics (ANOVA, hypotheiss testing, f-scores), Chi-squares
